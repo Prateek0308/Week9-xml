@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ahla0004</string>
+    <string name="hello_message">Type in the name of city:</string>
+    <string name="button_message">Get Forecast</string>
+</resources>
